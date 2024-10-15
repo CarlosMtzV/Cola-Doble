@@ -1,0 +1,17 @@
+E:\Queeqe\Cola Doble Dinamica\Cola Doble Dinamica\bin\Debug\net8.0-windows\Cola Doble Dinamica.exe
+E:\Queeqe\Cola Doble Dinamica\Cola Doble Dinamica\bin\Debug\net8.0-windows\Cola Doble Dinamica.deps.json
+E:\Queeqe\Cola Doble Dinamica\Cola Doble Dinamica\bin\Debug\net8.0-windows\Cola Doble Dinamica.runtimeconfig.json
+E:\Queeqe\Cola Doble Dinamica\Cola Doble Dinamica\bin\Debug\net8.0-windows\Cola Doble Dinamica.dll
+E:\Queeqe\Cola Doble Dinamica\Cola Doble Dinamica\bin\Debug\net8.0-windows\Cola Doble Dinamica.pdb
+E:\Queeqe\Cola Doble Dinamica\Cola Doble Dinamica\obj\Debug\net8.0-windows\Cola_Doble_Dinamica.Form1.resources
+E:\Queeqe\Cola Doble Dinamica\Cola Doble Dinamica\obj\Debug\net8.0-windows\Cola_Doble_Dinamica.Properties.Resources.resources
+E:\Queeqe\Cola Doble Dinamica\Cola Doble Dinamica\obj\Debug\net8.0-windows\Cola Doble Dinamica.csproj.GenerateResource.cache
+E:\Queeqe\Cola Doble Dinamica\Cola Doble Dinamica\obj\Debug\net8.0-windows\Cola Doble Dinamica.GeneratedMSBuildEditorConfig.editorconfig
+E:\Queeqe\Cola Doble Dinamica\Cola Doble Dinamica\obj\Debug\net8.0-windows\Cola Doble Dinamica.AssemblyInfoInputs.cache
+E:\Queeqe\Cola Doble Dinamica\Cola Doble Dinamica\obj\Debug\net8.0-windows\Cola Doble Dinamica.AssemblyInfo.cs
+E:\Queeqe\Cola Doble Dinamica\Cola Doble Dinamica\obj\Debug\net8.0-windows\Cola Doble Dinamica.csproj.CoreCompileInputs.cache
+E:\Queeqe\Cola Doble Dinamica\Cola Doble Dinamica\obj\Debug\net8.0-windows\Cola Doble Dinamica.dll
+E:\Queeqe\Cola Doble Dinamica\Cola Doble Dinamica\obj\Debug\net8.0-windows\refint\Cola Doble Dinamica.dll
+E:\Queeqe\Cola Doble Dinamica\Cola Doble Dinamica\obj\Debug\net8.0-windows\Cola Doble Dinamica.pdb
+E:\Queeqe\Cola Doble Dinamica\Cola Doble Dinamica\obj\Debug\net8.0-windows\Cola Doble Dinamica.genruntimeconfig.cache
+E:\Queeqe\Cola Doble Dinamica\Cola Doble Dinamica\obj\Debug\net8.0-windows\ref\Cola Doble Dinamica.dll

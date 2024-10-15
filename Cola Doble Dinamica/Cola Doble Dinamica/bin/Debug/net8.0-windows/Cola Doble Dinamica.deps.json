@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cola Doble Dinamica/1.0.0": {
+        "runtime": {
+          "Cola Doble Dinamica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cola Doble Dinamica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
